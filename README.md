@@ -4,17 +4,22 @@ I'm a Senior Software Engineer at [Vimly](https://www.linkedin.com/company/vimly
 
 ## What I work with
 
-- **Languages:** Java (Dropwizard microservices, Maven, TestNG/JUnit), JavaScript/TypeScript (Node.js, React, Next.js), Python, Ruby, C#, SQL, Shell
+- **Languages:** Java (Dropwizard microservices, Maven, TestNG/JUnit), TypeScript/JavaScript, Python, Ruby, C#, SQL, Shell
+- **Full-stack web:** Next.js (App Router), React 19, TypeScript, Tailwind CSS, PostgreSQL with Drizzle ORM, pg-boss job queues, WebAuthn/passkeys and JWT auth, S3-compatible object storage (S3, GCS, MinIO), PDF/Excel/Word/iCal document generation
 - **Cloud & infrastructure:** AWS (ECS/Fargate, EKS, Aurora, VPC design, ALB, Route 53, ElastiCache, Secrets Manager), Terraform (multi-environment, remote-state composition, `terraform test`), Kubernetes, Helm, Ansible, Docker
-- **CI/CD & DevOps:** Bitbucket Pipelines, git-flow release management, blue/green deployments, New Relic and Datadog observability
+- **CI/CD & DevOps:** Bitbucket Pipelines, GitHub Actions (sharded Playwright runs in Docker), git-flow release management, blue/green deployments, New Relic and Datadog observability
 - **APIs & integration:** REST, GraphQL, SSO/Okta, ETL and EDI data pipelines, document generation
-- **Testing:** TestNG/JUnit, Playwright end-to-end suites
+- **Testing:** TestNG/JUnit, Vitest, Playwright end-to-end suites
 - **AI-assisted engineering:** custom Claude Code skills and agent workflows, MCP integrations
 
 ## Background
 
 - **Vimly** (2018 – present): Software Engineer, then Senior Software Engineer
 - **Vertafore** (2006 – 2018): Product Support → Technical Consultant (Linux/Windows servers, Oracle and SQL Server, Active Directory, 100+ servers) → Conversion Engineer (data extraction and mapping) → Software Development Engineer II (C#, MSSQL, PowerShell build and deploy tooling)
+
+## Side projects
+
+I'm also building a multi-tenant event-operations platform (rosters, room and group assignments, waivers, transportation, role-based portals) on the full-stack web stack above, deployed to AWS with Terraform.
 
 ## Homelab
 
